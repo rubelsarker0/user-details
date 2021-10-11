@@ -8,7 +8,7 @@
 
 #Clone the repo for below link
 
-- [x]
+- [x] https://github.com/rubelsarker0/user-details
 
 #To start the application
 
